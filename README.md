@@ -5,3 +5,5 @@ All you gotta do is go to the link!
 
 
 https://individual7-la.github.io/my-portfolio/
+
+This portfolio is casual, so that if my friends ever go to my github and see this, they don't clown me.
